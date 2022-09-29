@@ -1,6 +1,7 @@
 package com.example.cmput301f22t24;
 
 public class Star extends Shape {
+    String color = "yellow";
     Star(int x, int y) {
         super(x, y);
     }
